@@ -1,4 +1,4 @@
 [core]
     autostage = true
 ['remote "origin"']
-    url = https://dagshub.com/borahparinita123/MlOps-Dagshub.dvc
+    url = https://dagshub.com/borahparinita123/hello-world.dvc
